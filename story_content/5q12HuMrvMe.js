@@ -1,0 +1,1 @@
+window.globalProvideSvgData('Layer_1-5q12HuMrvMe', "<svg id=\"Layer_1-5q12HuMrvMe\" data-name=\"Layer 1\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 60 60\"><g pointer-events=\"visiblePainted\" data-accepts=\"events\"><path d=\"M38,26V2H26V26H2V38H26V62H38V38H62V26Z\" transform=\"translate(-2 -2)\" /></g></svg>");
